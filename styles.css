@@ -32,6 +32,10 @@ img {
   width: 80%;
 }
 
+.instruction{
+  text-align: center;
+}
+
 footer {
   margin-top: 5%;
   color: #EEEEEE;
